@@ -461,6 +461,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tent_01_Prefab
       objectReference: {fileID: 0}
+    - target: {fileID: 2302073556517278132, guid: 74aeec6002edd31428364ee5a1c44741, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2970688348012063075, guid: 74aeec6002edd31428364ee5a1c44741, type: 3}
       propertyPath: m_Enabled
       value: 0
